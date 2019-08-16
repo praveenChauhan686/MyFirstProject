@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+.beautify {
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+h1 {
+    color: Black;
+    text-align: center;
+}
+
+
